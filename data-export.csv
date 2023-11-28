@@ -1,0 +1,145 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: No Offense But
+# Property: No Offense But
+# ----------------------------------------
+#  
+# Start date: 20231015
+# End date: 20231111
+Platform,Users
+"[""Web""]",451
+
+#  
+# Start date: 20231015
+# End date: 20231111
+Operating system,Users
+Android,298
+iOS,111
+Windows,37
+Linux,5
+Macintosh,3
+
+#  
+# Start date: 20231015
+# End date: 20231111
+Platform / device category,Users
+web / mobile,409
+web / desktop,45
+web / tablet,3
+
+#  
+# Start date: 20231015
+# End date: 20231111
+Browser,Users
+Android Webview,201
+Chrome,131
+Safari (in-app),79
+Safari,29
+Opera,9
+Edge,4
+Samsung Internet,2
+Android Runtime,1
+
+#  
+# Start date: 20231015
+# End date: 20231111
+Device category,Users
+mobile,409
+desktop,45
+tablet,3
+
+#  
+# Start date: 20231015
+# End date: 20231111
+Screen resolution,Users
+360x800,65
+390x844,46
+393x873,37
+412x915,31
+2000x2000,16
+360x780,16
+414x896,15
+1536x864,14
+360x804,13
+384x854,12
+432x960,11
+384x857,10
+412x892,10
+320x693,9
+360x760,9
+393x852,9
+393x876,9
+430x932,9
+1280x960,8
+375x667,8
+393x851,8
+1600x900,7
+424x942,7
+385x854,6
+375x812,5
+428x926,5
+1280x720,3
+1680x1050,3
+336x568,3
+360x720,3
+360x820,3
+384x832,3
+414x736,3
+491x1091,3
+1536x960,2
+1920x1080,2
+385x860,2
+393x895,2
+412x732,2
+412x919,2
+424x946,2
+437x961,2
+1280x800,1
+320x694,1
+339x753,1
+355x793,1
+360x772,1
+360x803,1
+360x825,1
+375x813,1
+388x861,1
+393x808,1
+393x864,1
+412x846,1
+412x869,1
+412x918,1
+412x933,1
+421x935,1
+427x949,1
+432x984,1
+486x1079,1
+601x962,1
+800x600,1
+
+#  
+# Start date: 20231015
+# End date: 20231111
+Nth day
+
+
+#  
+# Start date: 20231015
+# End date: 20231111
+App,Version,Status
+
+
+#  
+# Start date: 20231111
+# End date: 20231111
+App,Crash-free users
+6003011755,1
+
+# Start date: 20231110
+# End date: 20231110
+App,Crash-free users
+6003011755,0
+
+#  
+# Start date: 20231015
+# End date: 20231111
+Device model,Users
